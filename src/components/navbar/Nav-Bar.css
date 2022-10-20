@@ -40,7 +40,7 @@
   
   .header_searchBar form input {
     border: none;
-    background: white;
+    background: #f2eded;
   }
   
   .header_searchBar form input:focus {
@@ -49,14 +49,14 @@
   
   .header_searchBar form input::placeholder {
     text-transform: uppercase;
-    color: gray;
+    color: black;
   }
   
   .header_searchBar form button {
-    background-color: white;
+    background-color: #f2eded;
     border: none;
     border-radius: 5px;
-    color: gray;
+    color: black;
     font-size: 1.2rem;
     height: 2.5rem;
     width: 2rem;
@@ -64,7 +64,7 @@
   }
   
   .header_searchBar form button:hover {
-    background-color: rgba(35, 179, 232, 0.1);
+    background-color: white;
     cursor: pointer;
   }
   
@@ -96,7 +96,7 @@
 }
 .main1, .main2 , .main3{
     margin: 0 1rem ;
-    color: #741c44;
+    color: #f2eded;
 }
 
 /* Invisible texto */

@@ -35,7 +35,7 @@
     margin-bottom: 6px;
     border-radius: 5px;
     background-color: #f2eded;
-    color: rgb(242, 227, 227);;
+    color: black;;
 }
 .imagenTotalProducto{
     height: 100%;
@@ -62,7 +62,7 @@
 }
 .codigoDescuento {
     padding: 2.5rem 0;
-    box-sizing: 0px white   ;
+    box-sizing: 0px black   ;
     box-shadow: 1px 1px 18px 0px black; 
     text-align: center; 
     width: 98%;
@@ -70,7 +70,7 @@
     margin-bottom: 2px;
     border-radius: 6px;
     background-color: #f2eded;
-    color: rgb(242, 227, 227);;
+    color: black;
 }
 .cuponDescuento {
     text-align: center;
@@ -94,14 +94,14 @@
 .totalYsubtotal {
     display: flex;
     flex-direction: column;
-    box-sizing: 0px white;
+    box-sizing: 0px black;
     box-shadow: 0px 1px 18px 0px black;
     width: 98%;
     margin-left: 1%;
     margin-bottom: 3rem;
     border-radius: 5px;
     background: #f2eded;
-    color: rgb(242, 227, 227);
+    color: black;
 }
 .subTotalCarrito {
     display: flex;
@@ -114,7 +114,7 @@
     width: 98%;
     padding: 5px 0;
     margin: 4px 6px;
-    color: rgb(242, 227, 227);
+    color: black;
     font-weight: 600;
-    background-color: black;
+    background-color: #f2eded;
 }

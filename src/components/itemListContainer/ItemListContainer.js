@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import { consultarBDD } from '../utils/funcionesUtiles';
+import { consultarBDD } from '../itemListContainer/funcionesUtiles';
 import {Link} from 'react-router-dom'
 import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';

@@ -77,7 +77,7 @@
         "nombre": "Coconut XL",
         "stock": 12,
         "price": 8100,
-        "img": "Coconut XL.png",
+        "img": "Coconut XL.webp",
         "descripcion": "Vela artesanal con aroma a coco. Tamaño mediano."
     },
     {
@@ -87,7 +87,7 @@
         "nombre": "Vanilla XL",
         "stock": 10,
         "price": 8200,
-        "img": "Vanilla XL.png",
+        "img": "Vanilla XL.webp",
         "descripcion": "Vela artesanal con aroma a vainilla. Tamaño mediano."
     },
     {
@@ -107,7 +107,7 @@
         "nombre": "Bubblegum XL",
         "stock": 3,
         "price": 4300,
-        "img": "Bubblegum XL.png",
+        "img": "Bubblegum XL.webp",
         "descripcion": "Vela artesanal con aroma a tutti-frutti. Tamaño mediano."
     },
     {

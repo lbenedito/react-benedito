@@ -30,7 +30,7 @@
     /* line-height: 1.5; */
     font-size: 17px;
     padding: 15px;
-    background: #fafafa;
+    background: black;
  
 }
 
@@ -39,7 +39,7 @@
     top: 2px;
     left: 0;
     background-color: #f2eded;
-    color: white;
+    color: black;
     transform: translateX(-1px);
     visibility: hidden;
     transition: all 600ms ease-in-out;
@@ -64,7 +64,7 @@
 }
 
 .card .card-contenido .favorite:hover svg{
-    fill: aqua;
+    fill: black;
 
   }
 

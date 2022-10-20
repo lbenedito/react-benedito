@@ -5,12 +5,12 @@
     box-sizing: border-box;
 }
 a {
-    color: black;
+    color: #f2eded;
     text-decoration: none; /*sacar subrayado*/
     font-family: 'Overpass', sans-serif;
 }
 a:hover {
-    color: black;
+    color: #f2eded;
     text-decoration: none;
 }
 

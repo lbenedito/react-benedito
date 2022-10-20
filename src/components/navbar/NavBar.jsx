@@ -13,17 +13,17 @@ const Navbar = () => {
       <ul className="navbar-nav me-auto">
         <li className="nav-item">
           <a className="nav-link active" href="#">Home
-            <span className="visually-hidden">(current)</span>
+            <span className="visually-hidden"></span>
           </a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Details</a>
+          <a className="nav-link" href="#">Detalles</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Pricing</a>
+          <a className="nav-link" href="#">Precios</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">About</a>
+          <a className="nav-link" href="#">Nosotros</a>
         </li>
       </ul>
     </div>
