@@ -1,0 +1,199 @@
+[
+    {
+        "id": 1,
+        "Category_id": 1,
+        "name_category": "velas",
+        "nombre": "Coconut",
+        "stock": 15,
+        "price": 4100,
+        "img": "Coconut.webp",
+        "descripcion": "Vela artesanal con aroma a coco. Tamaño chico"
+    },
+    {
+        "id": 2,
+        "Category_id": 1,
+        "name_category": "velas",
+        "nombre": "Vanilla",
+        "stock": 12,
+        "price": 4500,
+        "img": "Vanilla.webp",
+        "descripcion": "Vela artesanal con aroma a vainilla. Tamaño chico."
+    },
+    {
+        "id": 3,
+        "Category_id": 1,
+        "nombre": "Citric",
+        "name_category": "velas",
+        "stock": 5,
+        "price": 3800,
+        "img": "Citric.webp",
+        "descripcion": "Vela artesanal con aroma a cítricos. Tamaño chico."
+    },
+    {
+        "id": 4,
+        "Category_id": 1,
+        "name_category": "velas",
+        "nombre": "Bubblegum",
+        "stock": 1,
+        "price": 3300,
+        "img": "Bubblegum.webp",
+        "descripcion": "Vela artesanal con aroma a tutti-frutti. Tamaño chico."
+    },
+    {
+        "id": 5,
+        "Category_id": 1,
+        "name_category": "velas",
+        "nombre": "Lavander",
+        "stock": 7,
+        "price": 3300,
+        "img": "LAVANDER.webp",
+        "descripcion": "Vela artesanal con aroma a lavanda. Tamaño chico."
+    },
+    {
+        "id": 6,
+        "Category_id": 1,
+        "name_category": "velas",
+        "nombre": "Wonderlust",
+        "stock": 10,
+        "price": 3500,
+        "img": "Wonderlust.webp",
+        "descripcion": "Vela artesanal con aroma a brisa de verano. Tamaño chico."
+    },
+    {
+        "id": 7,
+        "Category_id": 1,
+        "name_category": "velas",
+        "nombre": "Pomegrade",
+        "stock": 1,
+        "price": 2000,
+        "img": "Pomegrade.webp",
+        "descripcion": "Vela artesanal con aroma a pomelo. Tamaño chico."
+    },
+
+    {
+        "id": 8,
+        "Category_id": 2,
+        "name_category": "velas XL",
+        "nombre": "Coconut XL",
+        "stock": 12,
+        "price": 8100,
+        "img": "Coconut XL.png",
+        "descripcion": "Vela artesanal con aroma a coco. Tamaño mediano."
+    },
+    {
+        "id": 9,
+        "Category_id": 2,
+        "name_category": "velas XL",
+        "nombre": "Vanilla XL",
+        "stock": 10,
+        "price": 8200,
+        "img": "Vanilla XL.png",
+        "descripcion": "Vela artesanal con aroma a vainilla. Tamaño mediano."
+    },
+    {
+        "id": 10,
+        "Category_id": 2,
+        "name_category": "velas XL",
+        "nombre": "Citric XL",
+        "stock": 14,
+        "price": 4800,
+        "img": "Citric XL FOTOPRODUCTO.webp",
+        "descripcion": "Vela artesanal con aroma a cítricos. Tamaño mediano."
+    },
+    {
+        "id": 11,
+        "Category_id": 2,
+        "name_category": "velas XL",
+        "nombre": "Bubblegum XL",
+        "stock": 3,
+        "price": 4300,
+        "img": "Bubblegum XL.png",
+        "descripcion": "Vela artesanal con aroma a tutti-frutti. Tamaño mediano."
+    },
+    {
+        "id": 12,
+        "Category_id": 2,
+        "name_category": "velas XL",
+        "nombre": "Lavander XL",
+        "stock": 12,
+        "price": 5000,
+        "img": "Foto-lavander.webp",
+        "descripcion": "Vela artesanal con aroma a lavanda. Tamaño mediano."
+    },
+    {
+        "id": 13,
+        "Category_id": 2,
+        "name_category": "velas XL",
+        "nombre": "Wonderlust XL",
+        "stock": 12,
+        "price": 4500,
+        "img": "wonderlust XL.webp",
+        "descripcion": "Vela artesanal con aroma a brisa de verano. Tamaño mediano."
+    },
+    {
+        "id": 14,
+        "Category_id": 2,
+        "name_category": "velas XL",
+        "nombre": "Pomegrade XL",
+        "stock": 12,
+        "price": 4300,
+        "img": "Pomegrade-XL.webp",
+        "descripcion": "Vela artesanal con aroma a pomelo. Tamaño mediano."
+    },
+    {
+        "id": 15,
+        "Category_id": 3,
+        "name_category": "velas XXL",
+        "nombre": "Coconut XXL",
+        "stock": 12,
+        "price": 10200,
+        "img": "Coconut XXL.webp",
+        "descripcion": "Vela artesanal con aroma a coco. Tamaño grande."
+    },
+    {
+        "id": 16,
+        "Category_id": 3,
+        "name_category": "velas XXL",
+        "nombre": "Vanilla XXL",
+        "stock": 12,
+        "price": 10500,
+        "img": "Vanilla-XXL.webp",
+        "descripcion": "Vela artesanal con aroma a vainilla. Tamaño grande."
+    },
+    {
+        "id": 17,
+        "Category_id": 3,
+        "name_category": "velas XXL",
+        "nombre": "Citric XXL",
+        "stock": 12,
+        "price": 8200,
+        "img": "Citric XXL.webp",
+        "descripcion": "Vela artesanal con aroma a cítricos. Tamaño grande."
+    },
+    {
+        "id": 18,
+        "Category_id": 3,
+        "name_category": "velas XXL",
+        "nombre": "Bubblegum XXL",
+        "stock": 12,
+        "price": 8500,
+        "img": "Bubblegum XXL.webp",
+        "descripcion": "Vela artesanal con aroma a tutti-frutti. Tamaño grande."
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
